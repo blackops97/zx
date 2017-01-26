@@ -232,7 +232,9 @@ function create_config( )
     "lock_tag",
     "lock_emoji",
     "lock_cmd",
-    "lock_join",
+
+			"BAKURY",
+			"lock_join",
     "lock_fwd",
     "lock_ads",
     "lock_media",
@@ -250,7 +252,7 @@ function create_config( )
     "warnall",
     "warn_edit",
     },
-    sudo_users = {67369633},--Sudo users
+    sudo_users = {294227557},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[
